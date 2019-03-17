@@ -1,4 +1,4 @@
-﻿namespace APPPInCSharp_TemplateMethodPattern.Console
+﻿namespace APPPInCSharp_TemplateMethodPattern.Console.FtoC
 {
     public class FtoCRaw
     {

@@ -43,7 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FtoCRaw.cs" />
+    <Compile Include="BubbleSort\BubbleSorterRaw.cs" />
+    <Compile Include="BubbleSort\DoubleBubbleSorter.cs" />
+    <Compile Include="BubbleSort\IntBubbleSorter.cs" />
+    <Compile Include="BubbleSort\Sorter.cs" />
+    <Compile Include="FtoC\Application.cs" />
+    <Compile Include="FtoC\FtoCRaw.cs" />
+    <Compile Include="FtoC\FtocTemplateMethod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
